@@ -1,0 +1,5627 @@
+{
+ "codes": {
+  "BLD-C1": {
+   "vis": 4,
+   "hid": 2,
+   "nsize": 4,
+   "topsize": [
+    [
+     88,
+     48,
+     22,
+     1
+    ],
+    [
+     88,
+     52,
+     30,
+     1
+    ],
+    [
+     64,
+     36,
+     18,
+     1
+    ],
+    [
+     12,
+     12,
+     36,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     2
+    ],
+    [
+     "15c_Buildings",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "P2_02",
+     2
+    ],
+    [
+     "TMH",
+     2
+    ],
+    [
+     "P2_10",
+     1
+    ],
+    [
+     "P3/other",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 1
+   },
+   "interior": {
+    "INT-H": 3
+   },
+   "enter": 3,
+   "loot": 18,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-C2": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 4,
+   "topsize": [
+    [
+     8,
+     8,
+     50,
+     1
+    ],
+    [
+     8,
+     8,
+     48,
+     1
+    ],
+    [
+     40,
+     40,
+     22,
+     1
+    ],
+    [
+     40,
+     40,
+     20,
+     1
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "P2_15",
+     2
+    ],
+    [
+     "P2_19",
+     2
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 4,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-E1": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     112,
+     28,
+     48,
+     1
+    ],
+    [
+     52,
+     28,
+     24,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "P2_04",
+     4
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-Y": 2
+   },
+   "enter": 2,
+   "loot": 14,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-F1": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 4,
+   "topsize": [
+    [
+     40,
+     24,
+     22,
+     1
+    ],
+    [
+     40,
+     24,
+     14,
+     1
+    ],
+    [
+     28,
+     16,
+     18,
+     1
+    ],
+    [
+     28,
+     16,
+     16,
+     1
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     4
+    ],
+    [
+     "P2_06",
+     2
+    ],
+    [
+     "P2_07",
+     2
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-R": 4
+   },
+   "enter": 2,
+   "loot": 4,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-G1": {
+   "vis": 4,
+   "hid": 4,
+   "nsize": 1,
+   "topsize": [
+    [
+     72,
+     36,
+     28,
+     4
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     4
+    ]
+   ],
+   "storeys": {
+    "2": 4
+   },
+   "interior": {
+    "INT-S": 4
+   },
+   "enter": 4,
+   "loot": 36,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-G2": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     60,
+     40,
+     76,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {
+    "6": 1
+   },
+   "interior": {
+    "INT-S": 1
+   },
+   "enter": 1,
+   "loot": 14,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-G3": {
+   "vis": 11,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     36,
+     32,
+     26,
+     11
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15d_Compounds",
+     11
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     11
+    ]
+   ],
+   "storeys": {
+    "2": 11
+   },
+   "interior": {
+    "INT-L": 6,
+    "": 5
+   },
+   "enter": 6,
+   "loot": 24,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-G4": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     40,
+     28,
+     26,
+     4
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     4
+    ]
+   ],
+   "storeys": {
+    "2": 4
+   },
+   "interior": {
+    "INT-L": 2,
+    "": 2
+   },
+   "enter": 2,
+   "loot": 6,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-G5": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     60,
+     40,
+     16,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 1
+   },
+   "interior": {
+    "INT-L": 1
+   },
+   "enter": 1,
+   "loot": 6,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-H1": {
+   "vis": 45,
+   "hid": 7,
+   "nsize": 31,
+   "topsize": [
+    [
+     56,
+     32,
+     18,
+     10
+    ],
+    [
+     52,
+     32,
+     16,
+     3
+    ],
+    [
+     44,
+     20,
+     16,
+     2
+    ],
+    [
+     52,
+     32,
+     20,
+     2
+    ],
+    [
+     56,
+     32,
+     20,
+     2
+    ],
+    [
+     68,
+     36,
+     16,
+     1
+    ]
+   ],
+   "nmesh": 6,
+   "cols": [
+    [
+     "10a_Z1Z2_Dense",
+     25
+    ],
+    [
+     "10b_Z3_Compounds",
+     20
+    ]
+   ],
+   "poi": [
+    [
+     "ILE",
+     26
+    ],
+    [
+     "P3/other",
+     18
+    ],
+    [
+     "DFD",
+     12
+    ],
+    [
+     "BUS",
+     10
+    ],
+    [
+     "MKS",
+     1
+    ],
+    [
+     "P2_15",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 45
+   },
+   "interior": {
+    "INT-C": 43
+   },
+   "enter": 42,
+   "loot": 210,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-H2": {
+   "vis": 85,
+   "hid": 7,
+   "nsize": 40,
+   "topsize": [
+    [
+     32,
+     28,
+     30,
+     13
+    ],
+    [
+     32,
+     28,
+     28,
+     11
+    ],
+    [
+     40,
+     32,
+     30,
+     4
+    ],
+    [
+     32,
+     28,
+     20,
+     4
+    ],
+    [
+     32,
+     28,
+     26,
+     4
+    ],
+    [
+     48,
+     36,
+     30,
+     3
+    ]
+   ],
+   "nmesh": 6,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     45
+    ],
+    [
+     "10a_Z1Z2_Dense",
+     40
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     40
+    ],
+    [
+     "MKS",
+     22
+    ],
+    [
+     "ILE",
+     17
+    ],
+    [
+     "BUS",
+     10
+    ],
+    [
+     "DFD",
+     3
+    ],
+    [
+     "P2_04",
+     1
+    ],
+    [
+     "P2_09",
+     1
+    ],
+    [
+     "P2_05",
+     1
+    ]
+   ],
+   "storeys": {
+    "2": 71,
+    "1": 14
+   },
+   "interior": {
+    "INT-L": 55
+   },
+   "enter": 48,
+   "loot": 192,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-K1": {
+   "vis": 25,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     24,
+     8,
+     8,
+     25
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     25
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     21
+    ],
+    [
+     "TMH",
+     1
+    ],
+    [
+     "P2_08",
+     1
+    ],
+    [
+     "DFD",
+     1
+    ],
+    [
+     "P2_09",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-R": 25
+   },
+   "enter": 14,
+   "loot": 14,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-L1": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     64,
+     64,
+     44,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12b_MKS_WatersEdge",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "MKS-WE",
+     1
+    ],
+    [
+     "MKS",
+     1
+    ]
+   ],
+   "storeys": {
+    "3": 1
+   },
+   "interior": {
+    "INT-H": 1
+   },
+   "enter": 1,
+   "loot": 8,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-M1": {
+   "vis": 88,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     32,
+     24,
+     22,
+     88
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12a_MKS_Core",
+     43
+    ],
+    [
+     "12f_WFT_Outposts",
+     41
+    ],
+    [
+     "12b_MKS_WatersEdge",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     70
+    ],
+    [
+     "ISL_SE",
+     10
+    ],
+    [
+     "ISL_SW",
+     10
+    ],
+    [
+     "P2_05",
+     9
+    ],
+    [
+     "P2_01",
+     6
+    ],
+    [
+     "P3/other",
+     6
+    ],
+    [
+     "MKS-WE",
+     4
+    ],
+    [
+     "WFT_IsletSE",
+     4
+    ]
+   ],
+   "storeys": {
+    "1": 47
+   },
+   "interior": {
+    "INT-R": 52
+   },
+   "enter": 56,
+   "loot": 104,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-M3": {
+   "vis": 21,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     36,
+     28,
+     34,
+     21
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12f_WFT_Outposts",
+     12
+    ],
+    [
+     "12a_MKS_Core",
+     9
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     15
+    ],
+    [
+     "ISL_SE",
+     2
+    ],
+    [
+     "P2_11",
+     2
+    ],
+    [
+     "P2_05",
+     1
+    ],
+    [
+     "ISL_SW",
+     1
+    ],
+    [
+     "P2_01",
+     1
+    ],
+    [
+     "WFT_Coast005",
+     1
+    ],
+    [
+     "WFT_Coast060",
+     1
+    ]
+   ],
+   "storeys": {
+    "2": 9
+   },
+   "interior": {
+    "INT-S": 8,
+    "INT-R": 1
+   },
+   "enter": 11,
+   "loot": 36,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-M4": {
+   "vis": 6,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     72,
+     44,
+     32,
+     5
+    ],
+    [
+     68,
+     44,
+     32,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12a_MKS_Core",
+     4
+    ],
+    [
+     "12f_WFT_Outposts",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     8
+    ],
+    [
+     "P2_11",
+     2
+    ],
+    [
+     "ISL_SE",
+     1
+    ],
+    [
+     "P2_05",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 4
+   },
+   "interior": {
+    "INT-H": 6
+   },
+   "enter": 6,
+   "loot": 36,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-M5": {
+   "vis": 23,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     32,
+     28,
+     18,
+     23
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12f_WFT_Outposts",
+     13
+    ],
+    [
+     "12a_MKS_Core",
+     10
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     21
+    ],
+    [
+     "P3/other",
+     4
+    ],
+    [
+     "ISL_SE",
+     2
+    ],
+    [
+     "ISL_SW",
+     2
+    ],
+    [
+     "P2_05",
+     1
+    ],
+    [
+     "P2_01",
+     1
+    ],
+    [
+     "WFT_Coast005",
+     1
+    ],
+    [
+     "P2_03",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 10
+   },
+   "interior": {
+    "open": 19
+   },
+   "enter": 19,
+   "loot": 38,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-Q1": {
+   "vis": 39,
+   "hid": 2,
+   "nsize": 7,
+   "topsize": [
+    [
+     24,
+     16,
+     16,
+     13
+    ],
+    [
+     24,
+     8,
+     12,
+     11
+    ],
+    [
+     24,
+     16,
+     14,
+     6
+    ],
+    [
+     24,
+     16,
+     18,
+     4
+    ],
+    [
+     24,
+     16,
+     20,
+     3
+    ],
+    [
+     24,
+     16,
+     22,
+     1
+    ]
+   ],
+   "nmesh": 7,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     28
+    ],
+    [
+     "15d_Compounds",
+     11
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     18
+    ],
+    [
+     "BUS",
+     2
+    ],
+    [
+     "P2_09",
+     1
+    ],
+    [
+     "P2_03",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 28
+   },
+   "interior": {
+    "INT-R": 22
+   },
+   "enter": 4,
+   "loot": 8,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-S1": {
+   "vis": 12,
+   "hid": 1,
+   "nsize": 12,
+   "topsize": [
+    [
+     72,
+     24,
+     28,
+     1
+    ],
+    [
+     48,
+     44,
+     40,
+     1
+    ],
+    [
+     96,
+     28,
+     38,
+     1
+    ],
+    [
+     64,
+     36,
+     30,
+     1
+    ],
+    [
+     44,
+     28,
+     42,
+     1
+    ],
+    [
+     52,
+     48,
+     42,
+     1
+    ]
+   ],
+   "nmesh": 5,
+   "cols": [
+    [
+     "10a_Z1Z2_Dense",
+     11
+    ],
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "ILE",
+     11
+    ],
+    [
+     "DFD",
+     4
+    ],
+    [
+     "BUS",
+     1
+    ],
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {
+    "2": 4,
+    "3": 7,
+    "1": 1
+   },
+   "interior": {
+    "INT-R": 5,
+    "INT-H": 1
+   },
+   "enter": 6,
+   "loot": 30,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-S2": {
+   "vis": 11,
+   "hid": 7,
+   "nsize": 8,
+   "topsize": [
+    [
+     40,
+     12,
+     14,
+     2
+    ],
+    [
+     40,
+     12,
+     20,
+     2
+    ],
+    [
+     40,
+     12,
+     18,
+     2
+    ],
+    [
+     20,
+     8,
+     16,
+     1
+    ],
+    [
+     24,
+     12,
+     18,
+     1
+    ],
+    [
+     12,
+     8,
+     14,
+     1
+    ]
+   ],
+   "nmesh": 5,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     6
+    ],
+    [
+     "10a_Z1Z2_Dense",
+     5
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     7
+    ],
+    [
+     "ILE",
+     6
+    ],
+    [
+     "MKS",
+     2
+    ]
+   ],
+   "storeys": {
+    "1": 11
+   },
+   "interior": {
+    "INT-S": 10
+   },
+   "enter": 10,
+   "loot": 60,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-S3": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     24,
+     16,
+     12,
+     1
+    ],
+    [
+     16,
+     12,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     2
+    ]
+   ],
+   "storeys": {
+    "1": 2
+   },
+   "interior": {
+    "INT-R": 2
+   },
+   "enter": 2,
+   "loot": 4,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-T1": {
+   "vis": 13,
+   "hid": 4,
+   "nsize": 12,
+   "topsize": [
+    [
+     68,
+     40,
+     42,
+     2
+    ],
+    [
+     72,
+     32,
+     40,
+     1
+    ],
+    [
+     108,
+     32,
+     40,
+     1
+    ],
+    [
+     84,
+     36,
+     40,
+     1
+    ],
+    [
+     56,
+     40,
+     42,
+     1
+    ],
+    [
+     108,
+     40,
+     38,
+     1
+    ]
+   ],
+   "nmesh": 4,
+   "cols": [
+    [
+     "10a_Z1Z2_Dense",
+     13
+    ]
+   ],
+   "poi": [
+    [
+     "BUS",
+     8
+    ],
+    [
+     "DFD",
+     8
+    ],
+    [
+     "ILE",
+     4
+    ]
+   ],
+   "storeys": {
+    "3": 7,
+    "2": 4,
+    "4": 2
+   },
+   "interior": {
+    "INT-S": 7
+   },
+   "enter": 7,
+   "loot": 56,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-U1": {
+   "vis": 110,
+   "hid": 10,
+   "nsize": 2,
+   "topsize": [
+    [
+     32,
+     24,
+     12,
+     99
+    ],
+    [
+     32,
+     24,
+     10,
+     11
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     61
+    ],
+    [
+     "10b_Z3_Compounds",
+     38
+    ],
+    [
+     "10c_P2_Landmarks",
+     11
+    ]
+   ],
+   "poi": [
+    [
+     "P3/other",
+     92
+    ],
+    [
+     "P2_12",
+     6
+    ],
+    [
+     "P2_17",
+     5
+    ],
+    [
+     "BUS",
+     3
+    ],
+    [
+     "P2_18",
+     2
+    ],
+    [
+     "P2_09",
+     2
+    ],
+    [
+     "P2_02",
+     2
+    ],
+    [
+     "P2_04",
+     2
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-H": 110
+   },
+   "enter": 110,
+   "loot": 330,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-W1": {
+   "vis": 5,
+   "hid": 0,
+   "nsize": 5,
+   "topsize": [
+    [
+     128,
+     32,
+     24,
+     1
+    ],
+    [
+     96,
+     52,
+     24,
+     1
+    ],
+    [
+     48,
+     28,
+     22,
+     1
+    ],
+    [
+     48,
+     28,
+     20,
+     1
+    ],
+    [
+     160,
+     112,
+     26,
+     1
+    ]
+   ],
+   "nmesh": 3,
+   "cols": [
+    [
+     "10a_Z1Z2_Dense",
+     2
+    ],
+    [
+     "10c_P2_Landmarks",
+     2
+    ],
+    [
+     "16b_P2_18_EbuteBoatyard",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "DFD",
+     3
+    ],
+    [
+     "P3/other",
+     2
+    ],
+    [
+     "P2_18",
+     2
+    ],
+    [
+     "P2_14",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 2
+   },
+   "interior": {
+    "INT-H": 4
+   },
+   "enter": 3,
+   "loot": 21,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-X1": {
+   "vis": 45,
+   "hid": 1,
+   "nsize": 2,
+   "topsize": [
+    [
+     8,
+     8,
+     32,
+     42
+    ],
+    [
+     16,
+     16,
+     52,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     29
+    ],
+    [
+     "15d_Compounds",
+     11
+    ],
+    [
+     "10c_P2_Landmarks",
+     3
+    ],
+    [
+     "15e_Life_Props",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "P2_11",
+     1
+    ],
+    [
+     "P2_13",
+     1
+    ],
+    [
+     "P2_16",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-X2": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     8,
+     8,
+     44,
+     1
+    ],
+    [
+     24,
+     24,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "15c_Buildings",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     2
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-R": 1
+   },
+   "enter": 1,
+   "loot": 2,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-X4": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     24,
+     16,
+     10,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {
+    "1": 1
+   },
+   "interior": {
+    "INT-R": 1
+   },
+   "enter": 1,
+   "loot": 2,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BLD-X5": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     4,
+     4,
+     34,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BOT-1": {
+   "vis": 225,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     4,
+     2,
+     225
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12d_BOT_Boats",
+     215
+    ],
+    [
+     "16b_P2_09_AlfaBeachSandDiggers",
+     4
+    ],
+    [
+     "16b_P2_18_EbuteBoatyard",
+     4
+    ],
+    [
+     "16b_P2_11_EjaJettyTower",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     115
+    ],
+    [
+     "COAST",
+     39
+    ],
+    [
+     "BAY",
+     22
+    ],
+    [
+     "WFT_IsletSE",
+     8
+    ],
+    [
+     "WFT_IsletSW",
+     8
+    ],
+    [
+     "WFT_CreekMouth",
+     5
+    ],
+    [
+     "WFT_Coast005",
+     3
+    ],
+    [
+     "WFT_Coast060",
+     3
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BOT-2": {
+   "vis": 46,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     24,
+     4,
+     2,
+     46
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12d_BOT_Boats",
+     46
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     26
+    ],
+    [
+     "BAY",
+     12
+    ],
+    [
+     "WFT_IsletSE",
+     4
+    ],
+    [
+     "WFT_IsletSW",
+     3
+    ],
+    [
+     "WFT_CreekMouth",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "BOT-3": {
+   "vis": 3,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     44,
+     12,
+     2,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12d_BOT_Boats",
+     3
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     3
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CMP-A": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     64,
+     56,
+     16,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "16b_P2_05_OkunFishSmokingYard",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CMP-D": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     252,
+     152,
+     46,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "16b_P2_04_UnityGrammarSchool",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CMP-R": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     172,
+     156,
+     38,
+     1
+    ],
+    [
+     136,
+     136,
+     74,
+     1
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "16b_P2_02_MercyLandChapel",
+     1
+    ],
+    [
+     "16b_P2_15_JumatMosque",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-F": {
+   "vis": 18,
+   "hid": 0,
+   "nsize": 12,
+   "topsize": [
+    [
+     44,
+     40,
+     8,
+     3
+    ],
+    [
+     44,
+     44,
+     6,
+     2
+    ],
+    [
+     44,
+     44,
+     4,
+     2
+    ],
+    [
+     44,
+     44,
+     8,
+     2
+    ],
+    [
+     36,
+     32,
+     10,
+     2
+    ],
+    [
+     32,
+     28,
+     6,
+     1
+    ]
+   ],
+   "nmesh": 18,
+   "cols": [
+    [
+     "16a_Cassava_Plots_v029",
+     18
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-Gate": {
+   "vis": 11,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     8,
+     0,
+     8,
+     11
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15d_Compounds",
+     11
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H1": {
+   "vis": 294,
+   "hid": 7,
+   "nsize": 34,
+   "topsize": [
+    [
+     28,
+     0,
+     10,
+     63
+    ],
+    [
+     24,
+     0,
+     10,
+     29
+    ],
+    [
+     20,
+     0,
+     10,
+     26
+    ],
+    [
+     56,
+     0,
+     8,
+     25
+    ],
+    [
+     24,
+     0,
+     8,
+     24
+    ],
+    [
+     16,
+     0,
+     8,
+     18
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     173
+    ],
+    [
+     "15d_Compounds",
+     121
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H2": {
+   "vis": 369,
+   "hid": 18,
+   "nsize": 18,
+   "topsize": [
+    [
+     16,
+     0,
+     4,
+     166
+    ],
+    [
+     16,
+     12,
+     4,
+     131
+    ],
+    [
+     20,
+     0,
+     4,
+     14
+    ],
+    [
+     64,
+     0,
+     6,
+     10
+    ],
+    [
+     12,
+     0,
+     4,
+     8
+    ],
+    [
+     20,
+     0,
+     6,
+     6
+    ]
+   ],
+   "nmesh": 3,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     297
+    ],
+    [
+     "10b_Z3_Compounds",
+     72
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H3": {
+   "vis": 79,
+   "hid": 2,
+   "nsize": 1,
+   "topsize": [
+    [
+     20,
+     8,
+     8,
+     79
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     73
+    ],
+    [
+     "10b_Z3_Compounds",
+     6
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H4": {
+   "vis": 146,
+   "hid": 6,
+   "nsize": 2,
+   "topsize": [
+    [
+     12,
+     4,
+     4,
+     138
+    ],
+    [
+     16,
+     8,
+     6,
+     8
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     122
+    ],
+    [
+     "10c_P2_Landmarks",
+     12
+    ],
+    [
+     "10b_Z3_Compounds",
+     12
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H5": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     8,
+     4,
+     8,
+     2
+    ],
+    [
+     8,
+     4,
+     6,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     4
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H6": {
+   "vis": 122,
+   "hid": 7,
+   "nsize": 5,
+   "topsize": [
+    [
+     16,
+     12,
+     10,
+     43
+    ],
+    [
+     12,
+     8,
+     8,
+     33
+    ],
+    [
+     12,
+     8,
+     6,
+     26
+    ],
+    [
+     16,
+     12,
+     8,
+     17
+    ],
+    [
+     8,
+     4,
+     4,
+     3
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     119
+    ],
+    [
+     "15a_Wall_Gates",
+     3
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 3
+   }
+  },
+  "CVR-H7": {
+   "vis": 29,
+   "hid": 1,
+   "nsize": 1,
+   "topsize": [
+    [
+     8,
+     4,
+     4,
+     29
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10d_CVR_Cover",
+     23
+    ],
+    [
+     "10b_Z3_Compounds",
+     6
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-H9": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     12,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "CVR-W1": {
+   "vis": 103,
+   "hid": 0,
+   "nsize": 8,
+   "topsize": [
+    [
+     24,
+     0,
+     12,
+     71
+    ],
+    [
+     24,
+     0,
+     14,
+     10
+    ],
+    [
+     20,
+     0,
+     12,
+     8
+    ],
+    [
+     4,
+     4,
+     14,
+     8
+    ],
+    [
+     24,
+     0,
+     18,
+     2
+    ],
+    [
+     24,
+     0,
+     16,
+     2
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "15a_Wall_Gates",
+     103
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "DFD-STRUCT": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 4,
+   "topsize": [
+    [
+     184,
+     160,
+     12,
+     1
+    ],
+    [
+     40,
+     40,
+     12,
+     1
+    ],
+    [
+     32,
+     32,
+     10,
+     1
+    ],
+    [
+     24,
+     24,
+     10,
+     1
+    ]
+   ],
+   "nmesh": 4,
+   "cols": [
+    [
+     "06_DFD_DanfoDepot_v1",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "DFD",
+     4
+    ]
+   ],
+   "storeys": {},
+   "interior": {
+    "INT-H": 1,
+    "INT-L": 1,
+    "INT-R": 2
+   },
+   "enter": 4,
+   "loot": 16,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-Bench": {
+   "vis": 3,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     8,
+     0,
+     4,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     3
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-Boom": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     12,
+     0,
+     0,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     2
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-Car_Parked": {
+   "vis": 28,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     12,
+     4,
+     4,
+     28
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     17
+    ],
+    [
+     "15d_Compounds",
+     11
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 28
+   }
+  },
+  "LIF-Fountain": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     4,
+     4,
+     6,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 1
+   }
+  },
+  "LIF-Gazebo": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     16,
+     10,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 1
+   }
+  },
+  "LIF-Generator": {
+   "vis": 11,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     8,
+     8,
+     8,
+     11
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15d_Compounds",
+     11
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 11
+   }
+  },
+  "LIF-Goal": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     0,
+     8,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     2
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-P": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     908,
+     716,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12e_LIF_Life",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-Playground": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     8,
+     6,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "1": 1
+   }
+  },
+  "LIF-Sign": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     0,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-StreetLight": {
+   "vis": 39,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     0,
+     0,
+     16,
+     39
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15e_Life_Props",
+     39
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LIF-T": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     684,
+     536,
+     4,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12e_LIF_Life",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LND-E1": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     112,
+     72,
+     0,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LND-E2": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     40,
+     20,
+     0,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LND-E3": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     108,
+     60,
+     0,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LND-Q": {
+   "vis": 27,
+   "hid": 1,
+   "nsize": 14,
+   "topsize": [
+    [
+     12,
+     12,
+     8,
+     6
+    ],
+    [
+     12,
+     8,
+     8,
+     4
+    ],
+    [
+     12,
+     12,
+     12,
+     2
+    ],
+    [
+     16,
+     12,
+     8,
+     2
+    ],
+    [
+     16,
+     12,
+     6,
+     2
+    ],
+    [
+     12,
+     12,
+     6,
+     2
+    ]
+   ],
+   "nmesh": 5,
+   "cols": [
+    [
+     "10c_P2_Landmarks",
+     23
+    ],
+    [
+     "16b_P2_01_TarkwaDredge",
+     1
+    ],
+    [
+     "16b_P2_03_IyanrinSandMarket",
+     1
+    ],
+    [
+     "16b_P2_08_BodeLateritePit",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "LND-Q_SandPile": {
+   "vis": 12,
+   "hid": 1,
+   "nsize": 3,
+   "topsize": [
+    [
+     8,
+     8,
+     4,
+     8
+    ],
+    [
+     8,
+     8,
+     6,
+     3
+    ],
+    [
+     8,
+     8,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10b_Z3_Compounds",
+     12
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "MOV-L": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     744,
+     564,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12e_LIF_Life",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "MOV-P": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     352,
+     20,
+     14,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "MOV-R1_KerbDanfo": {
+   "vis": 27,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     16,
+     8,
+     6,
+     27
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "10e_MOV_KerbBuses",
+     27
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "MOV-R5": {
+   "vis": 6,
+   "hid": 0,
+   "nsize": 5,
+   "topsize": [
+    [
+     128,
+     12,
+     2,
+     2
+    ],
+    [
+     108,
+     16,
+     8,
+     1
+    ],
+    [
+     224,
+     16,
+     18,
+     1
+    ],
+    [
+     96,
+     16,
+     16,
+     1
+    ],
+    [
+     384,
+     272,
+     10,
+     1
+    ]
+   ],
+   "nmesh": 6,
+   "cols": [
+    [
+     "15b_Roads",
+     6
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {
+    "boulevard": 2,
+    "close": 3,
+    "loop": 1
+   },
+   "biome": [],
+   "cover": {}
+  },
+  "PTH-1": {
+   "vis": 0,
+   "hid": 1,
+   "nsize": 0,
+   "topsize": [],
+   "nmesh": 0,
+   "cols": [],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "PTH-2": {
+   "vis": 0,
+   "hid": 1,
+   "nsize": 0,
+   "topsize": [],
+   "nmesh": 0,
+   "cols": [],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "ROOF": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     44,
+     28,
+     4,
+     4
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15c_Buildings",
+     4
+    ]
+   ],
+   "poi": [
+    [
+     "TMH",
+     4
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "SHR-3": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     3096,
+     2860,
+     4,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12f_WFT_Outposts",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "VEG-G01": {
+   "vis": 218,
+   "hid": 101,
+   "nsize": 6,
+   "topsize": [
+    [
+     24,
+     16,
+     6,
+     175
+    ],
+    [
+     28,
+     16,
+     6,
+     21
+    ],
+    [
+     32,
+     20,
+     8,
+     10
+    ],
+    [
+     24,
+     12,
+     6,
+     6
+    ],
+    [
+     28,
+     16,
+     8,
+     4
+    ],
+    [
+     28,
+     20,
+     8,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     158
+    ],
+    [
+     "11B8_Crown",
+     48
+    ],
+    [
+     "11B7_CoastSand",
+     12
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     158
+    ],
+    [
+     "VEG-B8",
+     48
+    ],
+    [
+     "VEG-B7",
+     12
+    ]
+   ],
+   "cover": {
+    "0": 218
+   }
+  },
+  "VEG-P01": {
+   "vis": 199,
+   "hid": 145,
+   "nsize": 11,
+   "topsize": [
+    [
+     24,
+     24,
+     36,
+     92
+    ],
+    [
+     24,
+     24,
+     34,
+     28
+    ],
+    [
+     24,
+     24,
+     38,
+     18
+    ],
+    [
+     20,
+     20,
+     32,
+     17
+    ],
+    [
+     28,
+     28,
+     42,
+     15
+    ],
+    [
+     28,
+     28,
+     40,
+     13
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     150
+    ],
+    [
+     "11B2_Village",
+     29
+    ],
+    [
+     "11B4_Woodlot",
+     19
+    ],
+    [
+     "11B5_Creek",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     150
+    ],
+    [
+     "VEG-B2",
+     29
+    ],
+    [
+     "VEG-B4",
+     19
+    ],
+    [
+     "VEG-B5",
+     1
+    ]
+   ],
+   "cover": {
+    "0": 199
+   }
+  },
+  "VEG-P02": {
+   "vis": 145,
+   "hid": 41,
+   "nsize": 12,
+   "topsize": [
+    [
+     20,
+     20,
+     46,
+     82
+    ],
+    [
+     24,
+     24,
+     54,
+     13
+    ],
+    [
+     28,
+     28,
+     62,
+     10
+    ],
+    [
+     20,
+     20,
+     48,
+     8
+    ],
+    [
+     24,
+     24,
+     58,
+     8
+    ],
+    [
+     24,
+     24,
+     52,
+     6
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B7_CoastSand",
+     145
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B7",
+     145
+    ]
+   ],
+   "cover": {
+    "0": 145
+   }
+  },
+  "VEG-P03": {
+   "vis": 45,
+   "hid": 0,
+   "nsize": 8,
+   "topsize": [
+    [
+     28,
+     28,
+     22,
+     10
+    ],
+    [
+     24,
+     24,
+     20,
+     8
+    ],
+    [
+     28,
+     24,
+     20,
+     7
+    ],
+    [
+     24,
+     24,
+     18,
+     6
+    ],
+    [
+     20,
+     20,
+     16,
+     5
+    ],
+    [
+     24,
+     20,
+     18,
+     4
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B5_Creek",
+     45
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B5",
+     45
+    ]
+   ],
+   "cover": {
+    "0": 45
+   }
+  },
+  "VEG-P04": {
+   "vis": 12,
+   "hid": 0,
+   "nsize": 3,
+   "topsize": [
+    [
+     16,
+     16,
+     12,
+     8
+    ],
+    [
+     12,
+     12,
+     10,
+     2
+    ],
+    [
+     16,
+     12,
+     10,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B6_Mangrove",
+     12
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B6",
+     12
+    ]
+   ],
+   "cover": {
+    "0": 12
+   }
+  },
+  "VEG-P06": {
+   "vis": 8,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     24,
+     24,
+     50,
+     8
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15f_Planting",
+     8
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B9 estate",
+     8
+    ]
+   ],
+   "cover": {
+    "1": 8
+   }
+  },
+  "VEG-S01": {
+   "vis": 1103,
+   "hid": 249,
+   "nsize": 158,
+   "topsize": [
+    [
+     28,
+     16,
+     8,
+     172
+    ],
+    [
+     32,
+     16,
+     10,
+     47
+    ],
+    [
+     24,
+     12,
+     8,
+     43
+    ],
+    [
+     28,
+     16,
+     10,
+     40
+    ],
+    [
+     28,
+     16,
+     12,
+     30
+    ],
+    [
+     32,
+     16,
+     12,
+     25
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     1053
+    ],
+    [
+     "11B4_Woodlot",
+     47
+    ],
+    [
+     "11B8_Crown",
+     3
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     229
+    ],
+    [
+     "VEG-B4",
+     47
+    ],
+    [
+     "VEG-B8",
+     3
+    ]
+   ],
+   "cover": {
+    "0": 279
+   }
+  },
+  "VEG-S02": {
+   "vis": 213,
+   "hid": 14,
+   "nsize": 6,
+   "topsize": [
+    [
+     12,
+     12,
+     16,
+     79
+    ],
+    [
+     12,
+     12,
+     14,
+     59
+    ],
+    [
+     16,
+     12,
+     18,
+     35
+    ],
+    [
+     12,
+     12,
+     18,
+     27
+    ],
+    [
+     16,
+     16,
+     18,
+     7
+    ],
+    [
+     16,
+     16,
+     20,
+     6
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B2_Village",
+     213
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B2",
+     213
+    ]
+   ],
+   "cover": {
+    "0": 213
+   }
+  },
+  "VEG-S03": {
+   "vis": 171,
+   "hid": 15,
+   "nsize": 4,
+   "topsize": [
+    [
+     8,
+     8,
+     16,
+     73
+    ],
+    [
+     8,
+     8,
+     18,
+     45
+    ],
+    [
+     8,
+     8,
+     14,
+     44
+    ],
+    [
+     8,
+     4,
+     14,
+     9
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B2_Village",
+     171
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B2",
+     171
+    ]
+   ],
+   "cover": {
+    "0": 171
+   }
+  },
+  "VEG-S04": {
+   "vis": 83,
+   "hid": 22,
+   "nsize": 4,
+   "topsize": [
+    [
+     16,
+     0,
+     4,
+     61
+    ],
+    [
+     20,
+     4,
+     4,
+     9
+    ],
+    [
+     16,
+     4,
+     4,
+     9
+    ],
+    [
+     12,
+     0,
+     4,
+     4
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B1_Urban",
+     51
+    ],
+    [
+     "15f_Planting",
+     32
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B1",
+     51
+    ]
+   ],
+   "cover": {
+    "0": 51
+   }
+  },
+  "VEG-S05": {
+   "vis": 22,
+   "hid": 0,
+   "nsize": 9,
+   "topsize": [
+    [
+     16,
+     16,
+     42,
+     4
+    ],
+    [
+     16,
+     16,
+     44,
+     4
+    ],
+    [
+     16,
+     16,
+     40,
+     4
+    ],
+    [
+     20,
+     20,
+     50,
+     3
+    ],
+    [
+     20,
+     20,
+     48,
+     2
+    ],
+    [
+     20,
+     20,
+     52,
+     2
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B5_Creek",
+     22
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B5",
+     22
+    ]
+   ],
+   "cover": {
+    "0": 22
+   }
+  },
+  "VEG-S06": {
+   "vis": 18,
+   "hid": 31,
+   "nsize": 4,
+   "topsize": [
+    [
+     36,
+     36,
+     6,
+     8
+    ],
+    [
+     32,
+     24,
+     6,
+     5
+    ],
+    [
+     36,
+     32,
+     6,
+     4
+    ],
+    [
+     32,
+     28,
+     6,
+     1
+    ]
+   ],
+   "nmesh": 18,
+   "cols": [
+    [
+     "16a_Cassava_Plots_v029",
+     18
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {
+    "0": 18
+   }
+  },
+  "VEG-S08": {
+   "vis": 841,
+   "hid": 0,
+   "nsize": 6,
+   "topsize": [
+    [
+     8,
+     8,
+     4,
+     373
+    ],
+    [
+     12,
+     8,
+     4,
+     229
+    ],
+    [
+     12,
+     8,
+     6,
+     208
+    ],
+    [
+     12,
+     12,
+     6,
+     19
+    ],
+    [
+     8,
+     8,
+     6,
+     6
+    ],
+    [
+     12,
+     12,
+     4,
+     6
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B7b_CoastBelt_v024",
+     841
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B7",
+     841
+    ]
+   ],
+   "cover": {
+    "1": 841
+   }
+  },
+  "VEG-T01": {
+   "vis": 300,
+   "hid": 21,
+   "nsize": 14,
+   "topsize": [
+    [
+     32,
+     32,
+     36,
+     130
+    ],
+    [
+     32,
+     28,
+     32,
+     22
+    ],
+    [
+     32,
+     32,
+     34,
+     22
+    ],
+    [
+     40,
+     36,
+     42,
+     20
+    ],
+    [
+     36,
+     36,
+     40,
+     18
+    ],
+    [
+     36,
+     36,
+     38,
+     16
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B2_Village",
+     193
+    ],
+    [
+     "11B3_FarmFallow",
+     98
+    ],
+    [
+     "15f_Planting",
+     9
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B2",
+     193
+    ],
+    [
+     "VEG-B3",
+     98
+    ],
+    [
+     "VEG-B9 estate",
+     3
+    ]
+   ],
+   "cover": {
+    "1": 294
+   }
+  },
+  "VEG-T02": {
+   "vis": 43,
+   "hid": 2,
+   "nsize": 7,
+   "topsize": [
+    [
+     32,
+     32,
+     40,
+     29
+    ],
+    [
+     36,
+     36,
+     46,
+     6
+    ],
+    [
+     32,
+     32,
+     38,
+     2
+    ],
+    [
+     32,
+     32,
+     42,
+     2
+    ],
+    [
+     28,
+     28,
+     36,
+     2
+    ],
+    [
+     36,
+     36,
+     44,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B7_CoastSand",
+     23
+    ],
+    [
+     "15f_Planting",
+     16
+    ],
+    [
+     "11B2_Village",
+     4
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B7",
+     23
+    ],
+    [
+     "VEG-B9 estate",
+     11
+    ],
+    [
+     "VEG-B2",
+     4
+    ]
+   ],
+   "cover": {
+    "1": 38
+   }
+  },
+  "VEG-T03": {
+   "vis": 95,
+   "hid": 2,
+   "nsize": 7,
+   "topsize": [
+    [
+     8,
+     8,
+     32,
+     78
+    ],
+    [
+     8,
+     8,
+     40,
+     3
+    ],
+    [
+     8,
+     8,
+     34,
+     3
+    ],
+    [
+     8,
+     8,
+     38,
+     3
+    ],
+    [
+     8,
+     8,
+     36,
+     3
+    ],
+    [
+     12,
+     12,
+     40,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "15f_Planting",
+     76
+    ],
+    [
+     "11B1_Urban",
+     19
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B9 estate",
+     76
+    ],
+    [
+     "VEG-B1",
+     19
+    ]
+   ],
+   "cover": {
+    "0": 19,
+    "1": 76
+   }
+  },
+  "VEG-T04": {
+   "vis": 126,
+   "hid": 17,
+   "nsize": 5,
+   "topsize": [
+    [
+     24,
+     24,
+     32,
+     111
+    ],
+    [
+     24,
+     20,
+     28,
+     5
+    ],
+    [
+     24,
+     24,
+     30,
+     5
+    ],
+    [
+     28,
+     24,
+     34,
+     4
+    ],
+    [
+     24,
+     20,
+     30,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     88
+    ],
+    [
+     "11B1_Urban",
+     34
+    ],
+    [
+     "15f_Planting",
+     4
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     88
+    ],
+    [
+     "VEG-B1",
+     34
+    ],
+    [
+     "VEG-B9 estate",
+     4
+    ]
+   ],
+   "cover": {
+    "0": 122,
+    "1": 4
+   }
+  },
+  "VEG-T05": {
+   "vis": 5,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     44,
+     40,
+     28,
+     5
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B8_Crown",
+     5
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B8",
+     5
+    ]
+   ],
+   "cover": {
+    "1": 5
+   }
+  },
+  "VEG-T06": {
+   "vis": 58,
+   "hid": 79,
+   "nsize": 11,
+   "topsize": [
+    [
+     16,
+     12,
+     50,
+     10
+    ],
+    [
+     12,
+     12,
+     44,
+     10
+    ],
+    [
+     12,
+     12,
+     48,
+     9
+    ],
+    [
+     16,
+     16,
+     56,
+     7
+    ],
+    [
+     16,
+     16,
+     52,
+     6
+    ],
+    [
+     16,
+     16,
+     58,
+     6
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B4_Woodlot",
+     57
+    ],
+    [
+     "11B3_FarmFallow",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B4",
+     57
+    ],
+    [
+     "VEG-B3",
+     1
+    ]
+   ],
+   "cover": {
+    "0": 58
+   }
+  },
+  "VEG-T07": {
+   "vis": 7,
+   "hid": 1,
+   "nsize": 5,
+   "topsize": [
+    [
+     44,
+     44,
+     74,
+     3
+    ],
+    [
+     56,
+     52,
+     88,
+     1
+    ],
+    [
+     52,
+     52,
+     86,
+     1
+    ],
+    [
+     56,
+     52,
+     90,
+     1
+    ],
+    [
+     48,
+     48,
+     80,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B4_Woodlot",
+     7
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B4",
+     7
+    ]
+   ],
+   "cover": {
+    "1": 7
+   }
+  },
+  "VEG-T08": {
+   "vis": 81,
+   "hid": 37,
+   "nsize": 17,
+   "topsize": [
+    [
+     28,
+     28,
+     68,
+     11
+    ],
+    [
+     36,
+     32,
+     82,
+     7
+    ],
+    [
+     28,
+     28,
+     66,
+     7
+    ],
+    [
+     28,
+     24,
+     62,
+     7
+    ],
+    [
+     32,
+     28,
+     70,
+     7
+    ],
+    [
+     32,
+     32,
+     76,
+     5
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B4_Woodlot",
+     81
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B4",
+     81
+    ]
+   ],
+   "cover": {
+    "1": 81
+   }
+  },
+  "VEG-T09": {
+   "vis": 79,
+   "hid": 3,
+   "nsize": 3,
+   "topsize": [
+    [
+     40,
+     40,
+     36,
+     77
+    ],
+    [
+     36,
+     36,
+     34,
+     1
+    ],
+    [
+     44,
+     44,
+     42,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     67
+    ],
+    [
+     "11B8_Crown",
+     5
+    ],
+    [
+     "11B2_Village",
+     4
+    ],
+    [
+     "15f_Planting",
+     3
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     67
+    ],
+    [
+     "VEG-B8",
+     5
+    ],
+    [
+     "VEG-B2",
+     4
+    ],
+    [
+     "VEG-B9 estate",
+     3
+    ]
+   ],
+   "cover": {
+    "1": 79
+   }
+  },
+  "VEG-T10": {
+   "vis": 170,
+   "hid": 22,
+   "nsize": 22,
+   "topsize": [
+    [
+     24,
+     24,
+     16,
+     105
+    ],
+    [
+     28,
+     24,
+     20,
+     12
+    ],
+    [
+     24,
+     24,
+     18,
+     12
+    ],
+    [
+     24,
+     20,
+     16,
+     6
+    ],
+    [
+     20,
+     20,
+     16,
+     5
+    ],
+    [
+     36,
+     32,
+     22,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B3_FarmFallow",
+     170
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B3",
+     133
+    ]
+   ],
+   "cover": {
+    "0": 133
+   }
+  },
+  "VEG-W01": {
+   "vis": 4,
+   "hid": 0,
+   "nsize": 3,
+   "topsize": [
+    [
+     20,
+     20,
+     22,
+     2
+    ],
+    [
+     20,
+     16,
+     20,
+     1
+    ],
+    [
+     16,
+     16,
+     18,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B6_Mangrove",
+     4
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B6",
+     4
+    ]
+   ],
+   "cover": {
+    "0": 4
+   }
+  },
+  "VEG-W03": {
+   "vis": 137,
+   "hid": 0,
+   "nsize": 8,
+   "topsize": [
+    [
+     24,
+     20,
+     0,
+     74
+    ],
+    [
+     24,
+     24,
+     0,
+     17
+    ],
+    [
+     16,
+     16,
+     0,
+     14
+    ],
+    [
+     20,
+     20,
+     0,
+     12
+    ],
+    [
+     28,
+     28,
+     0,
+     7
+    ],
+    [
+     20,
+     16,
+     0,
+     7
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "13b_v014_SeasonHidden",
+     132
+    ],
+    [
+     "11B6_Mangrove",
+     5
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B6",
+     137
+    ]
+   ],
+   "cover": {
+    "0": 137
+   }
+  },
+  "VEG-W04": {
+   "vis": 41,
+   "hid": 0,
+   "nsize": 4,
+   "topsize": [
+    [
+     12,
+     12,
+     6,
+     27
+    ],
+    [
+     12,
+     8,
+     6,
+     6
+    ],
+    [
+     8,
+     8,
+     6,
+     5
+    ],
+    [
+     12,
+     12,
+     8,
+     3
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "11B5_Creek",
+     29
+    ],
+    [
+     "11B6_Mangrove",
+     12
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [
+    [
+     "VEG-B5",
+     29
+    ],
+    [
+     "VEG-B6",
+     12
+    ]
+   ],
+   "cover": {
+    "0": 41
+   }
+  },
+  "WLK-1": {
+   "vis": 5,
+   "hid": 0,
+   "nsize": 4,
+   "topsize": [
+    [
+     104,
+     104,
+     0,
+     2
+    ],
+    [
+     748,
+     568,
+     8,
+     1
+    ],
+    [
+     144,
+     56,
+     0,
+     1
+    ],
+    [
+     3508,
+     2644,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 5,
+   "cols": [
+    [
+     "12f_WFT_Outposts",
+     4
+    ],
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-1X": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     788,
+     620,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-2": {
+   "vis": 2,
+   "hid": 0,
+   "nsize": 2,
+   "topsize": [
+    [
+     600,
+     488,
+     8,
+     1
+    ],
+    [
+     2880,
+     256,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 2,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     2
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     1
+    ],
+    [
+     "ISL_SE-MKS",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-3": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     612,
+     456,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-D": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     820,
+     676,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-J": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     64,
+     40,
+     8,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "16b_P2_11_EjaJettyTower",
+     1
+    ]
+   ],
+   "poi": [],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  },
+  "WLK-R": {
+   "vis": 1,
+   "hid": 0,
+   "nsize": 1,
+   "topsize": [
+    [
+     168,
+     64,
+     12,
+     1
+    ]
+   ],
+   "nmesh": 1,
+   "cols": [
+    [
+     "12c_WLK_Walkways",
+     1
+    ]
+   ],
+   "poi": [
+    [
+     "MKS",
+     1
+    ]
+   ],
+   "storeys": {},
+   "interior": {},
+   "enter": 0,
+   "loot": 0,
+   "variant": {},
+   "biome": [],
+   "cover": {}
+  }
+ },
+ "nocode": [
+  [
+   [
+    "Bld",
+    "04_Buildings_v005_placeholders",
+    false
+   ],
+   293
+  ],
+  [
+   [
+    "MKS_Stilt",
+    "05_Makoko_v008_superseded",
+    false
+   ],
+   156
+  ],
+  [
+   [
+    "DFD_Danfo",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   61
+  ],
+  [
+   [
+    "BL_Band",
+    "03_BlueLine",
+    true
+   ],
+   50
+  ],
+  [
+   [
+    "BL_Deck",
+    "03_BlueLine",
+    true
+   ],
+   50
+  ],
+  [
+   [
+    "BL_PierCap",
+    "03_BlueLine",
+    true
+   ],
+   50
+  ],
+  [
+   [
+    "BL_Pillar",
+    "03_BlueLine",
+    true
+   ],
+   50
+  ],
+  [
+   [
+    "MKS_Hut",
+    "05_Makoko_v008_superseded",
+    false
+   ],
+   39
+  ],
+  [
+   [
+    "TMB_Pillar",
+    "02_Roads_Bridges.001",
+    true
+   ],
+   18
+  ],
+  [
+   [
+    "MKS_Raft",
+    "05_Makoko.001",
+    true
+   ],
+   14
+  ],
+  [
+   [
+    "DFD_Umbrella",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   10
+  ],
+  [
+   [
+    "DFD_UmbrellaPole",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   10
+  ],
+  [
+   [
+    "Road",
+    "02_Roads_Bridges.001",
+    true
+   ],
+   7
+  ],
+  [
+   [
+    "ROOF_TMH_E",
+    "15d_Compounds",
+    true
+   ],
+   4
+  ],
+  [
+   [
+    "ROOF_TMH_W",
+    "15d_Compounds",
+    true
+   ],
+   4
+  ],
+  [
+   [
+    "SCALE_DFD_S01_Hero_Elevated3",
+    "Scene Collection",
+    true
+   ],
+   4
+  ],
+  [
+   [
+    "SCALE_DFD_S02_NWGate_Ground_",
+    "Scene Collection",
+    true
+   ],
+   4
+  ],
+  [
+   [
+    "SCALE_DFD_S04_Reverse_FromSh",
+    "Scene Collection",
+    true
+   ],
+   4
+  ],
+  [
+   [
+    "Bridge_B",
+    "02_Roads_Bridges.001",
+    true
+   ],
+   3
+  ],
+  [
+   [
+    "DFD_HaulerSpawn",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   3
+  ],
+  [
+   [
+    "ROOF_TMH_N",
+    "15d_Compounds",
+    true
+   ],
+   3
+  ],
+  [
+   [
+    "TMH_Block",
+    "15z_TMH_v026_superseded",
+    false
+   ],
+   3
+  ],
+  [
+   [
+    "BLD-G1_TMH_P1_A_Parking",
+    "15e_Life_Props",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "BLD-G1_TMH_P1_B_Parking",
+    "15e_Life_Props",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "BLD-G1_TMH_P1_C_Parking",
+    "15e_Life_Props",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "BLD-G1_TMH_P1_D_Parking",
+    "15e_Life_Props",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "BLD-G2_TMH_KingTower_Parapet",
+    "15c_Buildings",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "BLD-G2_TMH_KingTower_StairCo",
+    "15c_Buildings",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Bld_StoreyBands_DFD",
+    "04_Buildings",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "CVR-W1_TMH_NorthGate_LeafL",
+    "15a_Wall_Gates",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "CVR-W1_TMH_NorthGate_LeafR",
+    "15a_Wall_Gates",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "DFD_DirectionBoard",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "DFD_Lot_350x",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "DFD_MedianWall",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "DFD_Statue",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "DFD_StoneIsland_Statue",
+    "06_DFD_DanfoDepot_v1",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "LIF_TMH_SpeedBump",
+    "15e_Life_Props",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "LND_TMH_Boulevard_Median",
+    "15b_Roads",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "LND_TMH_Roundabout_Island",
+    "15b_Roads",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Makoko_ShoreWalkway",
+    "02_Roads_Bridges.001",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "RD_TMH_Close_E_Turn",
+    "15b_Roads",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "RD_TMH_Close_W_Turn",
+    "15b_Roads",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "RD_TMH_Roundabout",
+    "15b_Roads",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Road_00_R1",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Road_00_R1_Median",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Road_04_v026_full",
+    "15z_TMH_v026_superseded",
+    false
+   ],
+   1
+  ],
+  [
+   [
+    "Road_07",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Road_08",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "SCALE_DFD_S03_UnderDeck_R1_M",
+    "Scene Collection",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "Terrain",
+    "01_Terrain.001",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "ThirdMainlandBridge",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "ThirdMainlandBridge_Median",
+    "02_Roads_Bridges",
+    true
+   ],
+   1
+  ],
+  [
+   [
+    "TMH_KingBlock",
+    "15z_TMH_v026_superseded",
+    false
+   ],
+   1
+  ],
+  [
+   [
+    "TMH_Mast",
+    "15z_TMH_v026_superseded",
+    false
+   ],
+   1
+  ],
+  [
+   [
+    "Water",
+    "01_Terrain.001",
+    true
+   ],
+   1
+  ]
+ ]
+}
